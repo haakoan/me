@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+
+My name is Haakon Andresen and I am a reseacher at Stockholm University, in the astronomy department. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research focuses on the gravitational wave signals produced by core-collapse supernovae, aiming to connect theoretical models with future observational data. 
+I specialize in gravitational-wave astronomy, computational modeling of core-collpase supernova, analysis of turbulent hydrodynamis, signal anlysis, and neutrio transport.
+
 
 ## News
 
