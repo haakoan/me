@@ -22,7 +22,7 @@
 
 @media (prefers-color-scheme: dark) { :root { --global-theme-color: rgb(36, 150, 203);}}
 
-blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
+blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 0em 0px; padding: 0.0em 0px; font-size: 1.2rem; }
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
@@ -30,7 +30,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 0.5em; margin-bottom: 0.1em; }
 
-.publications h2 { margin-bottom: 0.5rem; }
+.publications h2 { margin-bottom: 0.0rem; }
 
 .publications h2 span { font-size: 1.5rem; }
 
