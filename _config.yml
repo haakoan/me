@@ -1,13 +1,13 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Haakon Andresen
+position: Researcher
+affiliation: Stockholm University
+email: haakon.andresen (krøllalfa) astro.su.se
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: astrophysics, gravitational waves, supernova, sweden, stockholm university, computational astrophysics  
+description: The professional website of Haakon Andresen
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
