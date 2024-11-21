@@ -6,7 +6,6 @@ main:
   month: November
   pdf: https://arxiv.org/abs/2411.12524
   bibtex: https://ui.adsabs.harvard.edu/abs/2024arXiv241112524A/exportcitation
-  image: ./assets/img/spectrogram.png
 
 - title: "Black Hole Supernovae, their Equation of State Dependence and Ejecta Composition"
   authors: Oliver Eggenberger Andersen, Evan O'Connor, Haakon Andresen, André da Silva Schneider, Sean M. Couch
