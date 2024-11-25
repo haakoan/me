@@ -16,6 +16,7 @@ baseurl: "/me"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+home_link: https://haakoan.github.io/me/
 cv_link: https://haakoan.github.io/me/cv
 github_link: https://github.com/haakoan
 linkedin: https://www.linkedin.com/in/haakoan/
