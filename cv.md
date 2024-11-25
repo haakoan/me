@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
 # Haakon Andresen
 
 - **Email:** haakon.andresen(alfakrøll)astro.su.se 
