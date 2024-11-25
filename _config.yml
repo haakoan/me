@@ -16,16 +16,16 @@ baseurl: "/me"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: https://haakoan.github.io/cv
+cv_link: https://haakoan.github.io/me/cv
 github_link: https://github.com/haakoan
 linkedin: https://www.linkedin.com/in/haakoan/
 ads: https://ui.adsabs.harvard.edu/user/libraries/FAncKloLQ4CirW871fQ4MA
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: https://haakoan.github.io/assets/img/avatar.png
-favicon: https://haakoan.github.io/assets/img/favicon.png
-favicon_dark: https://haakoan.github.io/assets/img/favicon-dark.png
+avatar: https://haakoan.github.io/me/assets/img/avatar.png
+favicon: https://haakoan.github.io/me/assets/img/favicon.png
+favicon_dark: https://haakoan.github.io/me/assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
