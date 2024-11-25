@@ -10,9 +10,13 @@ keywords: astrophysics, gravitational waves, supernova, sweden, stockholm univer
 description: The professional website of Haakon Andresen
 canonical: https://minimal-light-theme.yliu.me/
 
+url: "https://haakoan.github.io" 
+baseurl: "/me"                  
+
+
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: ./cv
+cv_link: {{ '/cv/' | absolute_url }}
 github_link: https://github.com/haakoan
 linkedin: https://www.linkedin.com/in/haakoan/
 ads: https://ui.adsabs.harvard.edu/user/libraries/FAncKloLQ4CirW871fQ4MA
