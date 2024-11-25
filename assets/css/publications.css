@@ -28,19 +28,19 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 0rem; }
 
-.publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 0.5em; margin-bottom: 0.1em; }
+.publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 0.5em; margin-bottom: 1em; }
 
-.publications h2 { margin-bottom: 0.0rem; }
+.publications h2 { margin-bottom: 0.5rem; }
 
 .publications h2 span { font-size: 1.5rem; }
 
-.publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
+.publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 2rem; text-align: right; }
 
-.publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
+.publications ol.bibliography { list-style: none; padding: 5px; margin-top: 0.5rem; }
 
-.publications ol.bibliography li { min-height: 110px; margin-bottom: 0.0rem; }
+.publications ol.bibliography li { min-height: 110px; margin-bottom: 0.5rem; }
 
-.publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.0rem; }
+.publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
 .publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
 
@@ -58,10 +58,10 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
 
-.publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.0rem; padding-bottom: 0.0rem; }
+.publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.5rem; padding-bottom: 0.5rem; }
 
 @media (prefers-color-scheme: dark) {
-.publications ol.bibliography li .links a.btn { color: #FFFFFF; border: 1px solid #FFFFFF; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.0rem; padding-bottom: 0.0rem; }
+.publications ol.bibliography li .links a.btn { color: #FFFFFF; border: 1px solid #FFFFFF; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.5rem; padding-bottom: 0.5rem; }
 
   }
 
