@@ -1,7 +1,5 @@
 ---
 layout: homepage
-title: CV
-permalink: /cv/
 ---
 
 # Haakon Andresen
