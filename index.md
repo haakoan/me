@@ -3,8 +3,6 @@ layout: homepage
 ---
 
 ## About Me
-
-
 My name is Haakon Andresen and I am a reseacher at Stockholm University, in the astronomy department. 
 
 ## Research Interests
