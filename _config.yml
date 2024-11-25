@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: /cv
+cv_link: ./cv
 github_link: https://github.com/haakoan
 linkedin: https://www.linkedin.com/in/haakoan/
 ads: https://ui.adsabs.harvard.edu/user/libraries/FAncKloLQ4CirW871fQ4MA
