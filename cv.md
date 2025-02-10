@@ -57,6 +57,7 @@ permalink: /cv/
 
 ---
 ## Invited Seminars
+- **2025:** TU-Darmstadt Theorieseminar
 - **2024:** Hamburg Observatory Colloquium
 - **2023:** PRISMA+ Colloquium
 - **2023:** MICRA2023
