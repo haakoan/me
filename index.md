@@ -12,6 +12,7 @@ I specialize in gravitational-wave astronomy, computational modeling of core-col
 
 
 ## News
+- **[June 2026]** The 60 gravitational wave signals from our recent [study](https://arxiv.org/abs/2603.26408) is now available at [https://zenodo.org/records/20607405](https://zenodo.org/records/20607405).
 - **[February 2025]** We have been awarded ~14 million CPU hours on LUMI to perform numerical core-collapse supernovae simulations.
 - **[January 2025]** I gave an interview to the Norwegian popular science radio show about our recent papers on gravitational wave memory from core-collapse supernovae.
 - **[Desember 2024]** We have been awarded ~4 million CPU hours on LUMI to conduct numerical simulations of the final stages of stellar evolution.
